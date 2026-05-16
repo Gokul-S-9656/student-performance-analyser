@@ -42,6 +42,23 @@ student-performance-analyser
     └── Output screenshots and graphs
 ```
 
+## Project Screenshots
+
+### Average Marks
+![Average Marks per Student](images/Average_Marks.png)
+
+### Density Plot
+![Density Plot of Student Percentages](images/Density_plot.png)
+
+### Distribution of Percentages
+![Distribution of Student Percentages](images/Distribution_of_percentages.png)
+
+### Student Performance Dashboard
+![Student Performance Dashboard](images/Student_Performance.png)
+
+### Top 5 Students
+![Performance of Top 5 Students](images/Top_5_Students.png)
+
 ---
 
 ## Installation
