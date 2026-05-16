@@ -42,6 +42,8 @@ student-performance-analyser
     └── Output screenshots and graphs
 ```
 
+---
+
 ## Project Screenshots
 
 ### Average Marks
